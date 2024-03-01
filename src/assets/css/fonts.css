@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'Padauk';
+    src: url('../fonts/Padauk-Regular.ttf') format('woff1');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Padauk';
+    src: url('../fonts/Padauk-Bold.ttf') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/Lato-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: bold;
+src: url('../fonts/Lato-Black.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Mincho';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/BIZUDMincho-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Mincho';
+  font-style: normal;
+  font-weight: bold;
+  src: url('../fonts/BIZUDMincho-Bold.ttf') format('truetype');
+}
+
+
+  
